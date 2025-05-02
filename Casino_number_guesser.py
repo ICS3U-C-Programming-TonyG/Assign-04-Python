@@ -4,7 +4,7 @@
 
 # Date: 2025-04-08
 
-# Casino number guessing game
+# Casino number guessing game.
 
 import random
 
