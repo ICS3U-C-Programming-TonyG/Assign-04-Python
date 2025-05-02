@@ -10,7 +10,7 @@ import random
 
 
 def main():
-    # Start of the program
+    # Start of the program.
     print("Hello, what is your name?")
     name = input()
 
